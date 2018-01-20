@@ -1,6 +1,7 @@
 # Detourning the Web
-####ITP/NYU - Spring 2017 - Thursdays from 6:30pm to 9:00pm
-####Sam Lavigne - lavigne@nyu.edu (office hours by appointment or before class)
+#### ITP/NYU - Spring 2018 - Mondays from 6:30pm to 9:25pm
+#### Sam Lavigne - lavigne@nyu.edu
+#### [Sign up for office hours here](https://calendar.google.com/calendar/selfsched?sstoken=UUJjd182VklGYVlRfGRlZmF1bHR8Y2E5NDJlM2QyMmJiNDcwZDI0YzIyNGY1ZDdkOWIxZGY)
 
 Detournement is the practice of "hijacking" cultural or artistic materials and reusing them to produce new works that both counter and explicate the original intent or ideology of the source material. In this class students will learn how to scrape massive quantities of material from the internet with Python, and then use that material to make satirical, critical and political projects. Each week we will cover a different web scraping technique, with production assignments relating to text, image and video.
 
@@ -8,13 +9,13 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ## Schedule
 
-### Week 1 - Jan 26
+### Week 1 - Jan 22
 * Intro & ground rules
 * HTML/CSS basics
  	* Tags, attributes, classes, ids, css selectors
 * Using Chrome/Firefox developer tools
 	* the DOM: what it is and how to modify it
-* In class excersize!	
+* In class excersize!
 	* Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot.
 * Command line basics
 * Python basics
@@ -28,17 +29,16 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
 	* (optional) Watch "Dumb Starbucks"
 
-
 ***
- 
-### Week 2 - Feb 2 
+
+### Week 2 - Jan 29
 * [opening video](https://www.youtube.com/watch?v=Id3G5UOl9lg)
 * More on Python
 * More web scraping with Beautiful Soup
 * Creating and parsing JSON and CSV files
 * Manipulating text
 
-####WEEK 2 HOMEWORK
+#### WEEK 2 HOMEWORK
 * Readings:
 	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
 	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
@@ -48,7 +48,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 3 - Feb 9
+### Week 3 - Feb 5
 * [opening video](https://www.youtube.com/watch?v=nbiEfr5FxEA)
 * First assignment due
 	* Brief presentations
@@ -62,11 +62,11 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* [Fuck Off Google](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
 * **Project (due on week 5) - pick one:**
 	* Create a script that acts on your behalf online.
-	* Create a system that automatically manipulates images found online. 
+	* Create a system that automatically manipulates images found online.
 
 ***
 
-### Week 4 - Feb 23
+### Week 4 - Feb 12
 * Downloading images
 * Manipulating images
 	* imagemagick
@@ -77,20 +77,14 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* ffmpeg
 	* moviepy
 
-	
+
 #### WEEK 4 HOMEWORK
 * Readings:
 	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
 
 ***
 
-### OPTIONAL TEMPORARY AUTONOMOUS WEEK 4.5 - Feb 25
-* [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://stupidhackathon.com)
-	
-***
-
-
-### Week 5 - Mar 2
+### Week 5 - FEB 26
 * Second assignment due
 * More on video
 
@@ -102,7 +96,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 6 - Mar 9
+### Week 6 - Mar 5
 * We all make a sick video text-messaging bot
 * basic flask examples
 
@@ -113,13 +107,49 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 7 - Mar 23
+### Week 7 - Mar 19
+
+
+***
+
+### Week 8 - Mar 26
+
+
+#### WEEK 8 HOMEWORK
+
+
+***
+
+### Week 9 - Apr 2
+
+
+#### WEEK 9 HOMEWORK
+
+
+***
+
+### Week 10 - Apr 9
+
+
+#### WEEK 10 HOMEWORK
+
+
+***
+
+### Week 11 - Apr 16
+
+
+#### WEEK 11 HOMEWORK
+
+***
+
+### Week 12 - Apr 23
 * Final presentations
 	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
 * Celebratory drinks at lame bar (whoever is richest pays for everyone)
 * Deal final, resounding blow to late capitalism & build new society in its ruins
 
-*** 
+***
 
 ## Grading/Expectations
 
