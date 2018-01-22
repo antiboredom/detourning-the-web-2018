@@ -15,148 +15,131 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
  	* Tags, attributes, classes, ids, css selectors
 * Using Chrome/Firefox developer tools
 	* the DOM: what it is and how to modify it
-* In class excersize!
-	* Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot.
-* Command line basics
-* Python basics
-* Setting up our environments with pip and virtualenv
-* Intro to web scraping with Beautiful Soup
 
 #### WEEK 1 HOMEWORK
-* Write a simple web scraper that grabs text from a page or series of pages and saves it to a file.
+* **Project One: Critique three (3) websites by altering their content using Chrome/Firefox developer tools. Save screenshots and [post to the class homework wiki](https://github.com/antiboredom/detourning-the-web-2018/wiki).**
 * Readings:
-	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
-	* (optional) Watch "Dumb Starbucks"
+	<!-- * [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) -->
+	<!-- * (optional) Watch "Dumb Starbucks" -->
 
 ***
 
 ### Week 2 - Jan 29
 * [opening video](https://www.youtube.com/watch?v=Id3G5UOl9lg)
-* More on Python
-* More web scraping with Beautiful Soup
-* Creating and parsing JSON and CSV files
-* Manipulating text
+* Screenshot presentations
+* Command line basics
+* Python basics
+* Setting up our environments with pip and virtualenv
+* Intro to web scraping with Beautiful Soup
 
 #### WEEK 2 HOMEWORK
 * Readings:
-	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
-	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
-* **Project (due next class): Scrape the web, and then create a list with the material you collect.**
+  * [The Infinity of Lists](http://linktocome.com)
+* **Project Two - The List (Part 1): Scrape the web, and then create a list with the material you collect.**
  	* Your list should be text only.
-	* You can present your list in any way you want (for example: print it on roll paper, make a physical book, make a website, twitter bot, project it, recite it, etc)
+ 	* You list should be long
 
 ***
 
 ### Week 3 - Feb 5
 * [opening video](https://www.youtube.com/watch?v=nbiEfr5FxEA)
-* First assignment due
-	* Brief presentations
-* AJAX and how to deal with it
-* Web scraping with Selenium
-* Manipulating images with Python
+* More web scraping with Beautiful Soup
+* Primer on manipulating text
 
 #### WEEK 3 HOMEWORK
+* **Project Two - The List (Part 2): Create a physical version of your list: for example, print it on roll paper, make a book, make a website, make a projection, recite it, etc.**
 * Readings:
-	* [How to be a Communist](http://www.wikihow.com/Be-a-Communist)
 	* [Fuck Off Google](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
-* **Project (due on week 5) - pick one:**
-	* Create a script that acts on your behalf online.
-	* Create a system that automatically manipulates images found online.
+<!-- * **Project (due on week 5) - pick one:** -->
+<!-- 	* Create a script that acts on your behalf online. -->
+<!-- 	* Create a system that automatically manipulates images found online. -->
 
 ***
 
 ### Week 4 - Feb 12
-* Downloading images
+* Project #2 due
+* Downloading files
 * Manipulating images
-	* imagemagick
-	* Pillow
+	* wth imagemagick
+	* with Pillow
 * Calling external commands using subprocess.call
-* Manipulating video on the command line
-	* youtube-dl
-	* ffmpeg
-	* moviepy
-
 
 #### WEEK 4 HOMEWORK
 * Readings:
-	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
+	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
+	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
+	<!--* [On Violence](http://abahlali.org/files/On_Violence.pdf)-->
 
 ***
 
 ### Week 5 - FEB 26
-* Second assignment due
-* More on video
+* Web scraping with Selenium and puppeteer
+
 
 #### WEEK 5 HOMEWORK
+* **Project Three - Image: Create a system that automatically manipulates images found online.**
 * Readings:
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
-* Make a video using python
-* Come in with an idea for your final project to be discussed on Mar 9
 
 ***
 
 ### Week 6 - Mar 5
-* We all make a sick video text-messaging bot
-* basic flask examples
-
-#### WEEK 6 HOMEWORK
-* Readings:
-	* [Understanding Patriarchy](http://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf)
-* Final project will be due on Mar 23rd...
-
-***
+* Automating the online self
+* `AJAX` and how to deal with it
 
 ### Week 7 - Mar 19
-
+* Project #3 due
 
 ***
 
 ### Week 8 - Mar 26
+* Bots
 
 
 #### WEEK 8 HOMEWORK
-
+* **Project Four - Make a simple bot**
 
 ***
 
 ### Week 9 - Apr 2
-
+* Scraping and editing video
+<!-- * Make a video using python -->
+<!-- * Come in with an idea for your final project to be discussed on Mar 9 -->
 
 #### WEEK 9 HOMEWORK
+* **Prepare a proposal for your final project.**
 
 
 ***
 
 ### Week 10 - Apr 9
-
-
-#### WEEK 10 HOMEWORK
-
+* Project proposals due
+* TBD
 
 ***
 
 ### Week 11 - Apr 16
-
-
-#### WEEK 11 HOMEWORK
+* Lab day
 
 ***
 
 ### Week 12 - Apr 23
 * Final presentations
-	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
-* Celebratory drinks at lame bar (whoever is richest pays for everyone)
-* Deal final, resounding blow to late capitalism & build new society in its ruins
 
 ***
 
 ## Grading/Expectations
 
-* Each of the three main projects is worth 25% of your grade, and class participation is 25%.
-* More than one unexcused absense is grounds for failure :(
+* Each of the four main projects is worth 20% of your grade, and class participation is 20%.
+* More than one unexcused absence is grounds for failure :(
 * But no one will fail.
-* Close your laptops when others are presenting their work.
+* It's OK to show work that has sensitive or difficult content, but if you do so give everyone a quick heads up beforehand.
+* We will be critiquing each others work in the class. Be honest but friendly when critiquing other students. When receiving critique please listen and take feedback seriously.
+* Feel free to use your laptop in class to take notes or follow along when I'm covering programming topics. Please do not use your laptops to do stuff on social media unrelated to the class etc.
+* The only time laptop use is strictly prohibited is when other students are presenting their work.
+* Turn off your phones or put them on silent during class.
+* No projects about Trump.
 
 ***
 
@@ -194,3 +177,4 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ### Video
 * [ffmpeg](https://ffmpeg.org/)
 * [moviepy](http://zulko.github.io/moviepy/)
+* [vidpy](http://antiboredom.github.io/vidpy/)
