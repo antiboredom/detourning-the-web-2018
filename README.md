@@ -69,7 +69,6 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Readings:
 	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
 	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
-	<!--* [On Violence](http://abahlali.org/files/On_Violence.pdf)-->
 
 ***
 
@@ -87,6 +86,8 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ### Week 6 - Mar 5
 * Automating the online self
 * `AJAX` and how to deal with it
+
+***
 
 ### Week 7 - Mar 19
 * Project #3 due
