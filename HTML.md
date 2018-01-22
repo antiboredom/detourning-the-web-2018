@@ -1,4 +1,4 @@
-#HTML & CSS
+# HTML & CSS
 
 
 ## HTML
@@ -150,7 +150,7 @@ Select ids by preceding the id name with a hashtag ```#``` character.
 }
 ```
 
-###Here's a more complete list of css selectors: [http://www.cheetyr.com/css-selectors](http://www.cheetyr.com/css-selectors). 
+### Here's a more complete list of css selectors: [http://www.cheetyr.com/css-selectors](http://www.cheetyr.com/css-selectors). 
 
 
 ## Isolating Elements with CSS Selectors
