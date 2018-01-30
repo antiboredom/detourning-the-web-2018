@@ -14,14 +14,16 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * HTML/CSS basics
  	* Tags, attributes, classes, ids, css selectors
 * Using Chrome/Firefox developer tools
-	* the DOM: what it is and how to modify it
+* the DOM: what it is and how to modify it
+	* Editing a single element
+	* Editing multiple elements
+	* Editing subelements
 
 #### WEEK 1 HOMEWORK
 * **Project One: Critique three (3) websites by altering their content using Chrome/Firefox developer tools. Save screenshots and [post to the class homework wiki](https://github.com/antiboredom/detourning-the-web-2018/wiki).**
 * Readings:
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
-	<!-- * [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/) -->
-	<!-- * (optional) Watch "Dumb Starbucks" -->
+	* [Uncreative Writing, Chapter 2, Language as material](https://monoskop.org/media/text/goldsmith_2011_uncreative_writing/#filepos104950)
 
 ***
 
