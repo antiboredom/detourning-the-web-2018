@@ -46,10 +46,14 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 3 - Feb 5
 * [opening video](https://www.youtube.com/watch?v=nbiEfr5FxEA)
-* More web scraping with Beautiful Soup
-* Writing to file
+* ~~More web scraping with Beautiful Soup~~
+* Writing to a file
 * Dictionaries
 * JSON
+	* writing to json
+	* scraping from ajax/json
+		* Fox News search
+		* Instagram
 * Primer on manipulating text with TextBlob
 	* getting words
 	* getting parts of speech
