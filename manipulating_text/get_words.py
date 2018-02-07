@@ -34,7 +34,9 @@ for line in text.split('\n'):
         if phrase.lower() in line.lower():
             print line
 
-
+# sentiment
+sentence = TextBlob("A spectre is haunting europe")
+print sentence.sentiment
 
 # # get verbs
 # verbs = [w[0] for w in blob.tags if w[1]=='VBZ']
