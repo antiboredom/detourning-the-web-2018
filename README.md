@@ -173,6 +173,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 * [Selenium](http://selenium-python.readthedocs.io/)
 * [Splinter](http://splinter.readthedocs.io/en/latest/index.html)
+* [Convert cURL to requests](https://curl.trillworks.com/)
 
 ### Text Parsing
 * [Pattern](http://www.clips.ua.ac.be/pages/pattern-en)
