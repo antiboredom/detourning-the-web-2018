@@ -19,5 +19,3 @@ for (var i = 0; i < elements.length; i++) {
 driver.execute_script(script, sys.argv[2], sys.argv[3])
 driver.save_screenshot('screenie.png')
 driver.quit()
-
-
